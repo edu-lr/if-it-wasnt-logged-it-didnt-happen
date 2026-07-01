@@ -8,9 +8,9 @@ TOKEN = "svc-pay-002"
 MESSAGES = [
     "Pago procesado exitosamente por $1500",
     "Tarjeta rechazada para orden #4521",
-    "Reembolso iniciado para transacción #9981",
+    "Reembolso iniciado para transaccion #9981",
     "Timeout al conectar con pasarela de pago",
-    "Transacción sospechosa detectada, orden pausada",
+    "Transaccion sospechosa detectada, orden pausada",
 ]
 
 SEVERITIES = ["INFO", "DEBUG", "ERROR", "WARNING"]

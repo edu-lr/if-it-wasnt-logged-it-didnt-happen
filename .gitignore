@@ -2,3 +2,4 @@ venv/
 logs.db
 __pycache__/
 *.pyc
+consultas.md

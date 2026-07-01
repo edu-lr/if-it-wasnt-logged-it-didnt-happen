@@ -9,10 +9,10 @@ SERVER_URL = "http://127.0.0.1:8000/logs"
 TOKEN = "svc-auth-001"
 
 # Mensajes falsos pero convincentes
-MESSAGES = [
+MESSAGES = MESSAGES = [
     "Usuario autenticado correctamente",
     "Intento de login fallido para user@email.com",
-    "Token JWT expirado, sesión cerrada",
+    "Token JWT expirado, sesion cerrada",
     "Nuevo usuario registrado: user123",
     "Demasiados intentos fallidos, IP bloqueada",
 ]
